@@ -1,0 +1,659 @@
+[{
+	"id": "04",
+	"nm": "Almería",
+	"regions":[
+		{"name":"Alpujarra Almeriense"},
+		{"name":"Los Filabres-Tabernas"},
+		{"name":"Levante Almeriense"},
+		{"name":"Comarca Metropolitana de Almería"},
+		{"name":"Poniente almeriense"}
+	]
+
+}, {
+	"id": "11",
+	"nm": "Cádiz",
+	"regions":[
+		{"name":"Bahía de Cádiz"},
+		{"name":"Área Metropolitana de Jerez"},
+		{"name":"Campo de Gibraltar"},
+		{"name":"Costa Noroeste"},
+		{"name":"La Janda"}
+	]
+}, {
+	"id": "14",
+	"nm": "Córdoba",
+	"regions": [
+		{"name":"Alto guadalquivir"},
+		{"name":"Guadajoz-campina este"},
+		{"name":"Campina sur"},
+		{"name":"Comarca de Córdoba"},
+		{"name":"Los Pedroches"},
+		{"name":"Subbética"},
+		{"name":"Valle del Guadiato"},
+		{"name":"Valle Medio del Guadalquivir"}
+	]
+}, {
+	"id": "18",
+	"nm": "Granada",
+	"regions": [
+		{"name":"Comarca de Alhama"},
+		{"name":"Comarca de la Alpujarra Granadina"},
+		{"name":"Comarca de Baza"},
+		{"name":"Comarca de la Costa Granadina"},
+		{"name":"Comarca de Guadix"},
+		{"name":"Comarca de Huescar"},
+		{"name":"Comarca de Loja"},
+		{"name":"Comarca de los Montes"},
+		{"name":"Comarca del Valle de Lecrin"}
+	]
+}, {
+	"id": "21",
+	"nm": "Huelva",
+	"regions":[
+		{"name":"El Andevalo"},
+		{"name":"El Condado"},
+		{"name":"Costa Occidental"},
+		{"name":"Cuenca Minera"},
+		{"name":"Huelva Capital"},
+		{"name":"Sierra de Huelva"}
+	]
+}, {
+	"id": "23",
+	"nm": "Jaén",
+	"regions":[
+		{"name":"Sierra Sur"},
+		{"name":"Jaén Capital"},
+		{"name":"Campina de Jaén"},
+		{"name":"El Condado"},
+		{"name":"La Loma"},
+		{"name":"Las Villas"},
+		{"name":"Sierra de Cazorla"},
+		{"name":"Sierra de Segura"},
+		{"name":"Sierra Magina"},
+		{"name":"Sierra Morena"}
+
+	]
+}, {
+	"id": "29",
+	"nm": "Málaga",
+	"regions":[
+		{"name":"Comarca de Antequera"},
+		{"name":"La Axarquia"},
+		{"name":"Guadalteba"},
+		{"name":"Costa del Sol Occidental"},
+		{"name":"Málaga-costa del sol"},
+		{"name":"Comarca Nororiental de Málaga"},
+		{"name":"Valle del Guadalhorce"},
+		{"name":"Serrania de Ronda"},
+		{"name":"Sierra de las Nieves"}
+	]
+}, {
+	"id": "41",
+	"nm": "Sevilla",
+	"regions": [
+		{"name":"Aljarafe"},
+		{"name":"Bajo Guadalquivir"},
+		{"name":"Campina de Carmona"},
+		{"name":"Campina de Morón y Marchena"},
+		{"name":"Sevilla Capital"},
+		{"name":"Comarca de Ecija"},
+		{"name":"Sierra Norte"},
+		{"name":"Sierra Sur"},
+		{"name":"Vega del Guadalquivir"}
+	]
+}, {
+	"id": "22",
+	"nm": "Huesca",
+	"regions": [
+		{"name":"La Jacetania "},
+		{"name":"Alto Gallego"},
+		{"name":"Sobrarbe "},
+		{"name":"Ribagorza"},
+		{"name":"Somontano de Barbastro"},
+		{"name":"Hoya de Huesca"},
+		{"name":"Cinca Medio "},
+		{"name":"La Litera"},
+		{"name":"Bajo Cinca"},
+		{"name":"Los Monegros"}
+	]
+}, {
+	"id": "44",
+	"nm": "Teruel",
+	"regions": [
+		{"name":"Andorra-Sierra de Arcos"},
+		{"name":"Bajo Aragón"},
+		{"name":"Bajo Martín"},
+		{"name":"Comunidad de Teruel"},
+		{"name":"Cuencas Mineras"},
+		{"name":"Gudar-Javalambre"},
+		{"name":"Jiloca"},
+		{"name":"Maestrazgo"},
+		{"name":"Matarrana"},
+		{"name":"Sierra de Albarracin"}
+	]
+}, {
+	"id": "50",
+	"nm": "Zaragoza",
+	"regions": [
+		{"name":"Aranda"},
+		{"name":"Bajo aragon-caspe"},
+		{"name":"Campo de Belchite"},
+		{"name":"Campo de Borja"},
+		{"name":"Campo de Carinena"},
+		{"name":"Campo de Daroca"},
+		{"name":"Cinco Villas"},
+		{"name":"Comarca Central"},
+		{"name":"Comunidad de Calatayud"},
+		{"name":"Ribera alta del Ebro"},
+		{"name":"Ribera baja del Ebro"},
+		{"name":"Tarazona y el Moncayo"},
+		{"name":"Valdejalón"}
+	]
+}, {
+	"id": "33",
+	"nm": "Asturias",
+	"regions": [
+		{"name":"Avilés"},
+		{"name":"Caudal"},
+		{"name":"Eo-Navia"},
+		{"name":"Gijón"},
+		{"name":"Nalon"},
+		{"name":"Narcea"},
+		{"name":"Oriente"},
+		{"name":"Oviedo"}
+	]
+}, {
+		"id": "39",
+		"nm": "Cantabria",
+		"regions": [
+			{"name":"Ason-aguera"},
+			{"name":"Besaya"},
+			{"name":"Campoo-los valles"},
+			{"name":"Costa occidental"},
+			{"name":"Costa oriental"},
+			{"name":"Liebana"},
+			{"name":"Saja-nansa"},
+			{"name":"Santander"},
+			{"name":"Trasmiera"},
+			{"name":"Valles Pasiegos"}
+		]
+}, {
+	"id": "05",
+	"nm": "Ávila",
+	"regions": [
+		{"name": "Arévalo"},
+		{"name": "Ávila"},
+		{"name": "El Barco de Ávila - Piedrahita"},
+		{"name": "Burgohondo - El Tiemblo"},
+		{"name": "Arenas de San Pedro"}
+	]
+}, {
+	"id": "09",
+	"nm": "Burgos",
+	"regions": [
+		{"name": "Amaya"},
+		{"name": "Arlanza"},
+		{"name": "Bureba"},
+		{"name": "Ebro"},
+		{"name": "Burgos "},
+		{"name": "Alfoz"},
+		{"name": "Merindades"},
+		{"name": "Demanda - Pinares"},
+		{"name": "Ribera del Duero"}
+	]
+}, {
+	"id": "24",
+	"nm": "León",
+	"regions" : [
+		{"name": "Astorga"},
+		{"name": "El bierzo"},
+		{"name": "El paramo"},
+		{"name": "Esla-campos"},
+		{"name": "La bañeza"},
+		{"name": "La cabrera"},
+		{"name": "La montaña de luna"},
+		{"name": "La montaña de riaño"},
+		{"name": "Sahagún"},
+		{"name": "Tierras de León"}
+	]
+}, {
+	"id": "34",
+	"nm": "Palencia",
+	"regions": [
+		{"name":"Montaña Palentina"},
+		{"name":"Páramos-valles"},
+		{"name":"Tierra de Campos"},
+		{"name":"El Cerrato"}
+	]
+}, {
+	"id": "37",
+	"nm": "Salamanca",
+	"regions": [
+		{"name":"Vitigudino"},
+		{"name":"Ledesma"},
+		{"name":"La Armuña"},
+		{"name":"Las Villas"},
+		{"name":"Tierra de Peñaranda"},
+		{"name":"Tierra de Alba"},
+		{"name":"Campo de Salamanca"},
+		{"name":"Ciudad Rodrigo"},
+		{"name":"Sierra de Francia"},
+		{"name":"Sierra de Béjar"},
+		{"name":"Gijuelo"}
+	]
+}, {
+	"id": "40",
+	"nm": "Segovia",
+	"regions": [
+		{"name": "Cuéllar"},
+		{"name": "Riaza"},
+		{"name": "Segovia"},
+		{"name": "Sepúlveda - Cantalejo"},
+		{"name": "Santa María Real de Nieva"}
+	]
+}, {
+	"id": "42",
+	"nm": "Soria",
+	"regions": [
+		{"name": "Almazán"},
+		{"name": "Burgo de Osma"},
+		{"name": "Campo de Gómara"},
+		{"name": "El Valle - Tierras Altas"},
+		{"name": "Medinaceli"},
+		{"name": "Moncayo"},
+		{"name": "Pinares"},
+		{"name": "Soria"}
+	]
+}, {
+	"id": "47",
+	"nm": "Valladolid",
+	"regions": [
+		{"name": "Campiña de Pisuerga"},
+		{"name": "Campo de Peñafiel"},
+		{"name": "Montes Torozos"},
+		{"name": "Páramos de Esgueva"},
+		{"name": "Tierra de Campos"},
+		{"name": "Tierra de Medina"},
+		{"name": "Tierra de Pinares"},
+		{"name": "Tierra del Vino"}
+	]
+}, {
+	"id": "49",
+	"nm": "Zamora",
+	"regions": [
+		{"name": "Alfoz de Toro"},
+		{"name": "Aliste"},
+		{"name": "Benavente y Los Valles"},
+		{"name": "La Carbellada"},
+		{"name": "La Guareña"},
+		{"name": "Sanabria"},
+		{"name": "Sayago"},
+		{"name": "Tierra de Alba"},
+		{"name": "Tierra de Campos"},
+		{"name": "Tierra de Tábara"},
+		{"name": "Tierra de Pan"},
+		{"name": "Tierra del Vino"}
+	]
+}, {
+	"id": "02",
+	"nm": "Albacete",
+	"regions": [
+		{"name": "Albacete"},
+		{"name": "Alcaraz"},
+		{"name": "Almansa"},
+		{"name": "Casas-Ibáñez"},
+		{"name": "Hellín"},
+		{"name": "La Roda"},
+		{"name": "Villarrobledo"}
+			
+	]
+}, {
+	"id": "13",
+	"nm": "Ciudad Real"
+}, {
+	"id": "16",
+	"nm": "Cuenca"
+}, {
+	"id": "19",
+	"nm": "Guadalajara"
+}, {
+	"id": "45",
+	"nm": "Toledo"
+}, {
+	"id": "08",
+	"nm": "Barcelona",
+	"regions":[
+		{
+			"name":"Barcelonés",
+			"cities": [
+				{"name":"Barcelona"},
+				{"name":"Badalona"},
+				{"name":"Hospitalet de Llobregat"},
+				{"name":"San Adrián del Besós"},
+				{"name":"Santa Coloma de Gramanet"}
+			]
+		},
+		{
+			"name":"Vallès Oriental",
+			"cities": [
+				{"name":"Ametlla"},
+				{"name":"Aiguafreda"},
+				{"name":"Bigues i Riells"},
+				{"name":"Caldes de Montbui"},
+				{"name":"Canoves"},
+				{"name":"Cardedeu"},
+				{"name":"Les Franqueses"},
+				{"name":"Lliçà"},
+				{"name":"Montornés"},
+				{"name":"Monstseny"},
+				{"name":"Parets"},
+				{"name":"Sant Celoni"},
+				{"name":"St Fost"},
+				{"name":"St Quirze Safaja"},
+				{"name":"Sta Maria de Palautordera"},
+				{"name":"Canovelles"},
+				{"name":"Granollers"},
+				{"name":"La Llagosta"},
+				{"name":"La Roca del Vallès"},
+				{"name":"Mollet"}
+			]
+		},
+		{
+			"name":"bajo llobregat",
+			"cities": [
+				{"name":"abrera"},
+				{"name":"begas "},
+				{"name":"castelldefels"},
+				{"name":"castellvi de rosanes"},
+				{"name":"cervello"},
+				{"name":"collbato"},
+				{"name":"corbera de llobregat"},
+				{"name":"cornella de llobregat"},
+				{"name":"el prat de llobregat"},
+				{"name":"esparraguera"},
+				{"name":"esplugas de llobregat"},
+				{"name":"gava"},
+				{"name":"la palma de cervello"},
+				{"name":"martorell"},
+				{"name":"molins de rey"},
+				{"name":"olesa de montserrat"},
+				{"name":"palleja"},
+				{"name":"papiol "},
+				{"name":"san andres de la barca"},
+				{"name":"san baudilio de llobregat"},
+				{"name":"san clemente de llobregat"},
+				{"name":"san feliu de llobregat "},
+				{"name":"san justo desvern"},
+				{"name":"san vicente dels horts"},
+				{"name":"santa coloma de cervello"},
+				{"name":"sant joan despi"},
+				{"name":"torrellas de llobregat"},
+				{"name":"vallirana"},
+				{"name":"viladecans"}
+			]
+		},
+		{
+			"name":"valles occidental",
+			"cities": [
+				{"name":"badia del valles"},
+				{"name":"barbera del valles"},
+				{"name":"castellar del valles"},
+				{"name":"castellbisbal"},
+				{"name":"gallifa"},
+				{"name":"matadepera"},
+				{"name":"moncada y reixach"},
+				{"name":"palau-solita i plegamans"},
+				{"name":"polinya"},
+				{"name":"rellinars"},
+				{"name":"ripollet"},
+				{"name":"rubi"},
+				{"name":"sabadell"},
+				{"name":"san cugat del valles"},
+				{"name":"san lorenzo savall"},
+				{"name":"san quirico de tarrasa"},
+				{"name":"santa perpetua de moguda"},
+				{"name":"sardanola del valles"},
+				{"name":"senmanat"},
+				{"name":"tarrasa"},
+				{"name":"ullastrell"},
+				{"name":"vacarisas"},
+				{"name":"viladecaballs"}
+			]
+		},
+		{
+			"name":"maresme",
+			"cities": [
+				{"name": "alella"},
+				{"name": "arenys de mar"},
+				{"name": "arenys de munt"},
+				{"name": "argentona"},
+				{"name": "cabrera de mar"},
+				{"name": "cabrils"},
+				{"name": "caldetas"},
+				{"name": "calella"},
+				{"name": "canet de mar"},
+				{"name": "dosrius"},
+				{"name": "malgrat de mar"},
+				{"name": "masnou"},
+				{"name": "mataro"},
+				{"name": "montgat"},
+				{"name": "orrius"},
+				{"name": "palafolls"},
+				{"name": "pineda"},
+				{"name": "premia de dalt"},
+				{"name": "premia de mar"},
+				{"name": "san andres de llavaneras"},
+				{"name": "san acisclo de vallalta"},
+				{"name": "san cipriano de vallalta"},
+				{"name": "san pol de mar"},
+				{"name": "san vicente de montalt"},
+				{"name": "santa susana"},
+				{"name": "teya"},
+				{"name": "tiana"},
+				{"name": "tordera"},
+				{"name": "vilasar de dalt"},
+				{"name": "vilasar de mar"}
+			]
+		},
+		{
+			"name":"garraf",
+			"cities": [
+				{"name": "canyellas"},
+				{"name": "cubellas"},
+				{"name": "olivella"},
+				{"name": "san pedro de ribas"},
+				{"name": "sitges"},
+				{"name": "vilanova i la geltru"}
+			]
+		},
+		{
+			"name":"alto panades",
+			"cities": [
+				{"name":"avinyonet del penedes"},
+				{"name":"les cabanyes"},
+				{"name":"castellet i la gornal"},
+				{"name":"castellvi de la marca"},
+				{"name":"font-rubi"},
+				{"name":"gelida"},
+				{"name":"la granada"},
+				{"name":"mediona"},
+				{"name":"olerdola"},
+				{"name":"olesa de bonesvalls"},
+				{"name":"pacs del penedes"},
+				{"name":"el pla del penedes"},
+				{"name":"pontons"},
+				{"name":"puigdalber"},
+				{"name":"sant cugat sesgarrigues"},
+				{"name":"sant llorenc d'hortons"},
+				{"name":"sant marti sarroca"},
+				{"name":"sant pere de riudebitlles"},
+				{"name":"sant quinti de mediona"},
+				{"name":"sant sadurni d'anoia"},
+				{"name":"santa fe del penedes"},
+				{"name":"santa margarida i els monjos"},
+				{"name":"subirats"},
+				{"name":"torrelavit"},
+				{"name":"torrelles de foix"},
+				{"name":"vilafranca del penedes"},
+				{"name":"vilobi del penedes"}
+			]
+		},
+		{
+			"name":"noya",
+			"cities": [
+				{"name":"argensola"},
+				{"name":"bellprat"},
+				{"name":"bruch"},
+				{"name":"cabrera de igualada "},
+				{"name":"calaf"},
+				{"name":"calonje de segarra (calonge de segarra)"},
+				{"name":"capellades"},
+				{"name":"carme"},
+				{"name":"castellfullit de riubregos"},
+				{"name":"castelloli"},
+				{"name":"copons "},
+				{"name":"igualada"},
+				{"name":"jorba"},
+				{"name":"la llacuna"},
+				{"name":"la pobla de claramunt"},
+				{"name":"masquefa"},
+				{"name":"montmaneu"},
+				{"name":"odena"},
+				{"name":"orpi"},
+				{"name":"piera"},
+				{"name":"pierola"},
+				{"name":"prats del rey "},
+				{"name":"pujalt"},
+				{"name":"rubio"},
+				{"name":"san martin de tous"},
+				{"name":"san martin sasgayolas "},
+				{"name":"salavinera"},
+				{"name":"santa margarita de montbuy"},
+				{"name":"santa maria de miralles"},
+				{"name":"torre de claramunt "},
+				{"name":"vallbona"},
+				{"name":"veciana"},
+				{"name":"vilanova del cami"}
+			]
+		},
+		{
+			"name":"bages",
+			"cities": [
+				{"name":"aguilar de segarra"},
+				{"name":"artes"},
+				{"name":"avinyo"},
+				{"name":"balsareny"},
+				{"name":"callus"},
+				{"name":"cardona"},
+				{"name":"castellbell i el vilar"},
+				{"name":"castellfollit del boix"},
+				{"name":"castellgali"},
+				{"name":"castellnou de bages"},
+				{"name":"fonollosa"},
+				{"name":"gaia"},
+				{"name":"manresa"},
+				{"name":"marganell"},
+				{"name":"monistrol de montserrat"},
+				{"name":"mura"},
+				{"name":"navarcles"},
+				{"name":"navas"},
+				{"name":"el pont de vilomara i rocafort"},
+				{"name":"rajadell"},
+				{"name":"sallent"},
+				{"name":"sant feliu sasserra"},
+				{"name":"sant fruitos de bages"},
+				{"name":"sant joan de vilatorrada"},
+				{"name":"sant mateu de bages"},
+				{"name":"sant salvador de guardiola"},
+				{"name":"sant vicenc de castellet"},
+				{"name":"santpedor"},
+				{"name":"suria"},
+				{"name":"talamanca"}
+			]
+		}
+	]
+}, {
+	"id": "17",
+	"nm": "Girona"
+}, {
+	"id": "25",
+	"nm": "Lleida"
+}, {
+	"id": "43",
+	"nm": "Tarragona"
+}, {
+	"id": "03",
+	"nm": "Alicante"
+}, {
+	"id": "12",
+	"nm": "Castellón"
+}, {
+	"id": "46",
+	"nm": "Valencia"
+}, {
+	"id": "06",
+	"nm": "Badajoz"
+}, {
+	"id": "10",
+	"nm": "Cáceres"
+}, {
+	"id": "15",
+	"nm": "A Coruna"
+}, {
+	"id": "27",
+	"nm": "Lugo"
+}, {
+	"id": "32",
+	"nm": "Ourense"
+}, {
+	"id": "36",
+	"nm": "Pontevedra"
+}, {
+	"id": "28",
+	"nm": "Madrid",
+	"regions": [
+		{
+			"name":"Corredor de Henares",
+			"cities": [
+				{"name":"Alcalá de Henares"},
+				{"name":"Loeches"},
+				{"name":"Mejorada del Campo"},
+				{"name":"Villalba"},
+				{"name":"Meco"},
+				{"name":"Coslada"},
+				{"name":"San Fernando de Henares"},
+				{"name":"Torrejón de Ardoz"}
+			]
+		},
+		{"name":"Cuenca de Alberche-Guadarrama"},
+		{"name":"Cuenca del Tajo-Tajuña"},
+		{"name":"Madrid Capital"},
+		{"name":"Zona Noroeste"},
+		{"name":"Zona Norte"},
+		{"name":"Zona Sur"}
+	]
+}, {
+	"id": "30",
+	"nm": "Murcia"
+}, {
+	"id": "31",
+	"nm": "Navarra"
+}, {
+	"id": "01",
+	"nm": "Álava"
+}, {
+	"id": "48",
+	"nm": "Bizkaia"
+}, {
+	"id": "20",
+	"nm": "Gipuzkoa"
+}, {
+	"id": "26",
+	"nm": "La Rioja"
+}, {
+	"id": "51",
+	"nm": "Ceuta"
+}, {
+	"id": "52",
+	"nm": "Melilla"
+}]

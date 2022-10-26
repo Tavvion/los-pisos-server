@@ -1,0 +1,213 @@
+{
+    "name": "Espa\u00f1a",
+    "provinces": [
+        {
+            "name": "A Coru\u00f1a",
+            "slug": "a-coruna"
+        },
+        {
+            "name": "\u00c1lava",
+            "slug": "alava"
+        },
+        {
+            "name": "Albacete",
+            "slug": "albacete"
+        },
+        {
+            "name": "Alicante",
+            "slug": "alicante"
+        },
+        {
+            "name": "Almer\u00eda",
+            "slug": "almeria"
+        },
+        {
+            "name": "Asturias",
+            "slug": "asturias"
+        },
+        {
+            "name": "\u00c1vila",
+            "slug": "avila"
+        },
+        {
+            "name": "Badajoz",
+            "slug": "badajoz"
+        },
+        {
+            "name": "Balears (Illes)",
+            "slug": "balears-illes"
+        },
+        {
+            "name": "Barcelona",
+            "slug": "barcelona"
+        },
+        {
+            "name": "Burgos",
+            "slug": "burgos"
+        },
+        {
+            "name": "C\u00e1ceres",
+            "slug": "caceres"
+        },
+        {
+            "name": "C\u00e1diz",
+            "slug": "cadiz"
+        },
+        {
+            "name": "Cantabria",
+            "slug": "cantabria"
+        },
+        {
+            "name": "Castell\u00f3n",
+            "slug": "castellon"
+        },
+        {
+            "name": "Ceuta",
+            "slug": "ceuta"
+        },
+        {
+            "name": "Ciudad Real",
+            "slug": "ciudad-real"
+        },
+        {
+            "name": "C\u00f3rdoba",
+            "slug": "cordoba"
+        },
+        {
+            "name": "Cuenca",
+            "slug": "cuenca"
+        },
+        {
+            "name": "Girona",
+            "slug": "girona"
+        },
+        {
+            "name": "Granada",
+            "slug": "granada"
+        },
+        {
+            "name": "Guadalajara",
+            "slug": "guadalajara"
+        },
+        {
+            "name": "Guip\u00fazcoa",
+            "slug": "guipuzcoa"
+        },
+        {
+            "name": "Huelva",
+            "slug": "huelva"
+        },
+        {
+            "name": "Huesca",
+            "slug": "huesca"
+        },
+        {
+            "name": "Ja\u00e9n",
+            "slug": "jaen"
+        },
+        {
+            "name": "La Rioja",
+            "slug": "la-rioja"
+        },
+        {
+            "name": "Las Palmas",
+            "slug": "las-palmas"
+        },
+        {
+            "name": "Le\u00f3n",
+            "slug": "leon"
+        },
+        {
+            "name": "Lleida",
+            "slug": "lleida"
+        },
+        {
+            "name": "Lugo",
+            "slug": "lugo"
+        },
+        {
+            "name": "Madrid",
+            "slug": "madrid"
+        },
+        {
+            "name": "M\u00e1laga",
+            "slug": "malaga"
+        },
+        {
+            "name": "Melilla",
+            "slug": "melilla"
+        },
+        {
+            "name": "Murcia",
+            "slug": "murcia"
+        },
+        {
+            "name": "Navarra",
+            "slug": "navarra"
+        },
+        {
+            "name": "Ourense",
+            "slug": "ourense"
+        },
+        {
+            "name": "Palencia",
+            "slug": "palencia"
+        },
+        {
+            "name": "Pontevedra",
+            "slug": "pontevedra"
+        },
+        {
+            "name": "Salamanca",
+            "slug": "salamanca"
+        },
+        {
+            "name": "Santa Cruz de Tenerife",
+            "slug": "santa-cruz-de-tenerife"
+        },
+        {
+            "name": "Segovia",
+            "slug": "segovia"
+        },
+        {
+            "name": "Sevilla",
+            "slug": "sevilla"
+        },
+        {
+            "name": "Soria",
+            "slug": "soria"
+        },
+        {
+            "name": "Tarragona",
+            "slug": "tarragona"
+        },
+        {
+            "name": "Teruel",
+            "slug": "teruel"
+        },
+        {
+            "name": "Toledo",
+            "slug": "toledo"
+        },
+        {
+            "name": "Val\u00e8ncia",
+            "slug": "valencia"
+        },
+        {
+            "name": "Valladolid",
+            "slug": "valladolid"
+        },
+        {
+            "name": "Vizcaya",
+            "slug": "vizcaya"
+        },
+        {
+            "name": "Zamora",
+            "slug": "zamora"
+        },
+        {
+            "name": "Zaragoza",
+            "slug": "zaragoza"
+        }
+    ]
+}
